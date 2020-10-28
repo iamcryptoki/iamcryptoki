@@ -1,1 +1,1 @@
-> <p align='center'>"There's so many different worlds, so many different suns.</p><p align='center'>And we have just one world but we live in different ones."</p><p align='center'>— Brothers in Arms, Dire Straits</p>
+> <p align='center'>"There's so many different worlds, so many different suns.<br />And we have just one world but we live in different ones."</p><p align='center'>— Brothers in Arms, Dire Straits</p>
