@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="cryptoki_logo.png" />
+  <img src="cryptoki_github_banner.jpg" />
 </div>
